@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Tic Tac Toe",
+    "imageSrc": "projects/tic-tac-toe.png",
+    "description": "This is a game which you will be playing with the computer.",
+    "skills": ["HTML", "CSS", "JavaSCript"],
+    "demo": "https://rohitpundir98.github.io/TicTacToe/",
+    "source": "https://github.com/RohitPundir98/TicTacToe.git"
+  },
+  {
+    "title": "Resume Builder",
+    "imageSrc": "projects/ResumeBuilder.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "CSS"],
+    "demo": "https://resume-builder-by-rohit.netlify.app/",
+    "source": "https://github.com/RohitPundir98/resume-builder"
+  },
+  {
+    "title": "Analog Clock",
+    "imageSrc": "projects/analog-clock.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JavaSCript"],
+    "demo": "https://rohitpundir98.github.io/Analog-CLock/",
+    "source": "https://github.com/RohitPundir98/Analog-CLock"
+  }
+]
