@@ -9,7 +9,7 @@
 
 ## Demo
 
-You can visit my portfolio by clicking [here](https://rohitpundir98.github.io/personal-portfolio/).
+You can visit my portfolio by clicking [here]([https://rohitpundir98.github.io/personal-portfolio/](https://rohitpundir98.github.io/portfolio/)).
 
 ## Description
 
